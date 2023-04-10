@@ -20,7 +20,7 @@ function App() {
         >
           <h1>
             This is the Introduction section from from hotfix2 + new version +
-            feat2 + another update from feat2
+            feat2 + another update from feat2 + feat 3
           </h1>
         </section>
 
