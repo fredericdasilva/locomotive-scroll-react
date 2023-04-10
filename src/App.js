@@ -18,12 +18,7 @@ function App() {
           data-scroll-speed="4"
           data-scroll-section
         >
-
-          <h1>
-            This is the Introduction section from from hotfix2 + new version + feat2 + another update from
-            feat2
-          </h1>
-
+          <h1>This is the Introduction section feat2bis</h1>
         </section>
 
         <section className="contents" data-scroll-section>
